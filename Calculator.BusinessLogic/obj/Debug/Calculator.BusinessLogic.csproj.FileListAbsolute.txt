@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Calculator\Calculator.BusinessLogic\bin\Debug\Calculator.BusinessLogic.dll
+C:\Users\Admin\source\repos\Calculator\Calculator.BusinessLogic\bin\Debug\Calculator.BusinessLogic.pdb
+C:\Users\Admin\source\repos\Calculator\Calculator.BusinessLogic\obj\Debug\Calculator.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Calculator\Calculator.BusinessLogic\obj\Debug\Calculator.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculator\Calculator.BusinessLogic\obj\Debug\Calculator.BusinessLogic.dll
+C:\Users\Admin\source\repos\Calculator\Calculator.BusinessLogic\obj\Debug\Calculator.BusinessLogic.pdb
